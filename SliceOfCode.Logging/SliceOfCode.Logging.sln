@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliceOfCode.Logging.Api", "SliceOfCode.Logging.Api\SliceOfCode.Logging.Api.csproj", "{0B2F0350-2A68-4DD7-9369-EA734288A85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2F0350-2A68-4DD7-9369-EA734288A85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2F0350-2A68-4DD7-9369-EA734288A85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2F0350-2A68-4DD7-9369-EA734288A85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2F0350-2A68-4DD7-9369-EA734288A85A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
